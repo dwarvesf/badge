@@ -8,32 +8,32 @@ Our badges help bring the community together and highlight the projects that mak
 
 Below are the badges thoughtfully designed by our community members. You can add them to your repository to showcase your connection to the Dwarves community. Pick the one that resonates with you.
 
-[![From Dwarves with <3](https://raw.githubusercontent.com/dwarves/badge/main/svg/white-sm-love.svg) [![Member of Dwarves](https://raw.githubusercontent.com/dwarves/badge/main/svg/pink-sm-member.svg) [By Dwarves](https://raw.githubusercontent.com/dwarves/badge/main/svg/soft-pink-sm-by.svg)
+[![From Dwarves with <3](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-love.svg)](https://community.d.foundation) [![Member of Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/pink-sm-member.svg)](https://community.d.foundation) [![By Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/soft-pink-sm-by.svg)](https://community.d.foundation)
 
-[![Member of Dwarves](https://raw.githubusercontent.com/dwarves/badge/main/svg/soft-pink-lg-member.svg) [![From Dwarves with <3](https://raw.githubusercontent.com/dwarves/badge/main/svg/pink-lg-love.svg) [By Dwarves](https://raw.githubusercontent.com/dwarves/badge/main/svg/pink-lg-by.svg)
+[![Member of Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/soft-pink-lg-member.svg)](https://community.d.foundation) [![From Dwarves with <3](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-lg-love.svg)](https://community.d.foundation) [![By Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/pink-lg-by.svg)](https://community.d.foundation)
 
 - For Markdown:
 
   ```
-  [![By Dwarves](https://raw.githubusercontent.com/dwarves/badge/main/svg/white-sm-by.svg)](https://community.d.foundation)
-  [![Member of Dwarves](https://raw.githubusercontent.com/dwarves/badge/main/svg/white-sm-member.svg)](https://community.d.foundation)
-  [![From Dwarves with <3](https://raw.githubusercontent.com/dwarves/badge/main/svg/white-sm-love.svg)](https://community.d.foundation)
+  [![By Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-by.svg)](https://community.d.foundation)
+  [![Member of Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-member.svg)](https://community.d.foundation)
+  [![From Dwarves with <3](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-love.svg)](https://community.d.foundation)
   ```
 
 - For HTML:
 
   ```
-  <a href="https://community.d.foundation"><img src="https://raw.githubusercontent.com/dwarves/badge/main/svg/white-sm-by.svg" /></a>
-  <a href="https://community.d.foundation"><img src="https://raw.githubusercontent.com/dwarves/badge/main/svg/white-sm-member.svg" /></a>
-  <a href="https://community.d.foundation"><img src="https://raw.githubusercontent.com/dwarves/badge/main/svg/white-sm-love.svg" /></a>
+  <a href="https://community.d.foundation"><img src="https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-by.svg" /></a>
+  <a href="https://community.d.foundation"><img src="https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-member.svg" /></a>
+  <a href="https://community.d.foundation"><img src="https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-love.svg" /></a>
   ```
 
 - For Org-mode:
 
   ```
-  [[https://community.d.foundation][file:https://raw.githubusercontent.com/dwarves/badge/main/svg/white-sm-by.svg]]
-  [[https://community.d.foundation][file:https://raw.githubusercontent.com/dwarves/badge/main/svg/white-sm-member.svg]]
-  [[https://community.d.foundation][file:https://raw.githubusercontent.com/dwarves/badge/main/svg/white-sm-love.svg]]
+  [[https://community.d.foundation][file:https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-by.svg]]
+  [[https://community.d.foundation][file:https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-member.svg]]
+  [[https://community.d.foundation][file:https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-love.svg]]
   ```
 
 ## Join the Community
