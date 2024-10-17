@@ -8,40 +8,40 @@ Our badges help bring the community together and highlight the projects that mak
 
 Below are the badges thoughtfully designed by our community members. You can add them to your repository to showcase your connection to the Dwarves community. Pick the one that resonates with you.
 
-[![From Dwarves with <3](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-love.svg)](https://community.d.foundation) [![Member of Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/pink-sm-member.svg)](https://community.d.foundation) [![By Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/soft-pink-sm-by.svg)](https://community.d.foundation) [![Starred By Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-starred.svg)](https://community.d.foundation)
+[![From Dwarves with <3](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-love.svg)](https://discord.gg/dwarvesv) [![Member of Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/pink-sm-member.svg)](https://discord.gg/dwarvesv) [![By Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/soft-pink-sm-by.svg)](https://discord.gg/dwarvesv) [![Starred By Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-starred.svg)](https://discord.gg/dwarvesv)
 
-[![Member of Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/soft-pink-lg-member.svg)](https://community.d.foundation) [![From Dwarves with <3](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-lg-love.svg)](https://community.d.foundation) [![By Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/pink-lg-by.svg)](https://community.d.foundation) [![Starred By Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/soft-pink-lg-starred.svg)](https://community.d.foundation)
+[![Member of Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/soft-pink-lg-member.svg)](https://discord.gg/dwarvesv) [![From Dwarves with <3](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-lg-love.svg)](https://discord.gg/dwarvesv) [![By Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/pink-lg-by.svg)](https://discord.gg/dwarvesv) [![Starred By Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/soft-pink-lg-starred.svg)](https://discord.gg/dwarvesv)
 
 - For Markdown:
 
   ```
-  [![By Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-by.svg)](https://community.d.foundation)
-  [![Member of Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-member.svg)](https://community.d.foundation)
-  [![From Dwarves with <3](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-love.svg)](https://community.d.foundation)
-  [![Starred by Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-starred.svg)](https://community.d.foundation)
+  [![By Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-by.svg)](https://discord.gg/dwarvesv)
+  [![Member of Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-member.svg)](https://discord.gg/dwarvesv)
+  [![From Dwarves with <3](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-love.svg)](https://discord.gg/dwarvesv)
+  [![Starred by Dwarves](https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-starred.svg)](https://discord.gg/dwarvesv)
   ```
 
 - For HTML:
 
   ```
-  <a href="https://community.d.foundation"><img src="https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-by.svg" /></a>
-  <a href="https://community.d.foundation"><img src="https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-member.svg" /></a>
-  <a href="https://community.d.foundation"><img src="https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-love.svg" /></a>
-  <a href="https://community.d.foundation"><img src="https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-starred.svg" /></a>
+  <a href="https://discord.gg/dwarvesv"><img src="https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-by.svg" /></a>
+  <a href="https://discord.gg/dwarvesv"><img src="https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-member.svg" /></a>
+  <a href="https://discord.gg/dwarvesv"><img src="https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-love.svg" /></a>
+  <a href="https://discord.gg/dwarvesv"><img src="https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-starred.svg" /></a>
   ```
 
 - For Org-mode:
 
   ```
-  [[https://community.d.foundation][file:https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-by.svg]]
-  [[https://community.d.foundation][file:https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-member.svg]]
-  [[https://community.d.foundation][file:https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-love.svg]]
-  [[https://community.d.foundation][file:https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-starred.svg]]
+  [[https://discord.gg/dwarvesv][file:https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-by.svg]]
+  [[https://discord.gg/dwarvesv][file:https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-member.svg]]
+  [[https://discord.gg/dwarvesv][file:https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-love.svg]]
+  [[https://discord.gg/dwarvesv][file:https://raw.githubusercontent.com/dwarvesf/badge/refs/heads/main/svg/white-sm-starred.svg]]
   ```
 
 ## Join the Community
 
-- Discord: [community.d.foundation](https://community.d.foundation)
+- Discord: [discord.gg/dwarvesv](https://discord.gg/dwarvesv)
 - GitHub: [github.com/dwarvesf](https://github.com/dwarvesf/)
 
 We’re always excited to welcome new members, so join us, contribute, and be part of something great!
